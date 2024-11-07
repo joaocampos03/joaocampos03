@@ -29,6 +29,6 @@
 
 <br clear="both">
 
-<img src="./.github/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
